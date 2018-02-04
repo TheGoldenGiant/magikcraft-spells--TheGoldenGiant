@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function teleport() {
+function wormhole() {
     const there = magik.memento.getItem();
     if (there) {
         magik.ianuae(there);
