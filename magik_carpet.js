@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
 function magik_carpet() {
-    magik.declaro('elytra');
+    magik.declaro('lizerdEye');
 }
 
