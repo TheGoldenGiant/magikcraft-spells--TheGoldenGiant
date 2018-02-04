@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function jump(power = 10000) {
+function jump(power = 100) {
     magik.exsultus(power);
 }
 
